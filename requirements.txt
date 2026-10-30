@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-google-genai>=2.0.0
+google-genai>=1.0.0
+python-dotenv
+
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+streamlit
